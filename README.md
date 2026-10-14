@@ -2,7 +2,7 @@
 - 👀 I’m a DevOps Engineer
 - 🌱 I’m currently learning DevOps and working at Giza Systems
 - 💞️ I’m looking to collaborate on a DevOps projects
-- 📫 you can reach me on ibrahimgamal102033@gmail.com 
+- 📫 you can reach me on ibrahimgamal102030@gmail.com 
 
 
 <!---
